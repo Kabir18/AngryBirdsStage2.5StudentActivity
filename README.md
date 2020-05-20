@@ -1,2 +1,2 @@
-# AngryBirdsStage2.5StudentActivity
-git bash - C26 class
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
